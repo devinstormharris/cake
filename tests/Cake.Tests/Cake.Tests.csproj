@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="NodaTime.Testing" Version="3.0.10" />
       <PackageReference Include="NUnit" Version="3.13.3" />
       <PackageReference Include="System.CommandLine.DragonFruit" Version="0.4.0-alpha.22114.1" />
     </ItemGroup>
