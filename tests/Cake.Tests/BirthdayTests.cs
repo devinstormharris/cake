@@ -3,7 +3,7 @@
 namespace Cake.Tests;
 
 [TestFixture]
-public class UnitTests
+public class BirthdayTests
 {
     
 }
